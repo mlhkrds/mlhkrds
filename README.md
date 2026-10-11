@@ -21,8 +21,23 @@ Lately, I have been focusing on AI-assisted software development, building agent
 
 ### Stack
 
-<img src="assets/stack.webp" alt="Mobile: iOS, Android, Swift, Objective-C, Kotlin, Java, React Native, Expo, Flutter, Dart, Ionic-Cordova, Firebase, SQLite. Web: Angular, Angular Material, Next.js, React, TypeScript, JavaScript, RxJS, Sass, Webpack. AI: Claude Code, Codex, MCP, Cursor, agentic workflows. Backend and data: Node.js, Express, Python, gRPC, MySQL, Memcached, LMDB, Solr. Cloud and delivery: AWS, Google Cloud, Azure, GitHub Actions, Git, Playwright, Jest, Postman, Linux." width="100%">
+<img src="assets/stack.webp" alt="Mobile: iOS, Swift, Objective-C, Android, Kotlin, Java, React Native, Expo, Flutter, Dart, Cordova, Ionic, Xcode, Gradle, CocoaPods, Firebase. Web: TypeScript, JavaScript, React, Next.js, Angular, Angular Material, RxJS, Sass, Webpack. Backend and data: Node.js, Express, Python, gRPC, MySQL, SQLite, Memcached, LMDB, Solr. Cloud and delivery: AWS, Google Cloud, Azure, GitHub Actions, Git, Linux, Bash, Jest, Playwright, Postman, Stryker, Jira, Confluence. AI: Claude Code, Codex, Cursor, MCP, agentic workflows." width="100%">
 
-### Contact
+### Now
+
+- **Building:** Cross-platform mobile SDKs as a Senior Software Engineer.
+- **Exploring:** Agentic workflows with Claude Code and Codex, and MCP integrations that connect them to real tools.
+- **Sharing:** AI-assisted development practices with my team, from project setup to code review.
+
+### Principles
+
+- **Performance is a feature.** An SDK runs inside someone else’s app, so every kilobyte and millisecond is borrowed.
+- **Stable APIs, boring upgrades.** Integrating teams should be able to update without reading a migration guide.
+- **Docs are part of the product.** If a partner team needs a meeting to integrate, the documentation isn’t done yet.
+- **Automate the repeatable.** CI, tests and AI agents take the routine work, so people can focus on decisions.
+
+### Let's talk
+
+Regardless of whether it’s engineering through mobile, web or artificial intelligence assistance, feel free to contact me. LinkedIn is the quickest way to get hold of me.
 
 [mlhkrds.dev](https://mlhkrds.dev) · [LinkedIn](https://www.linkedin.com/in/melih-karadas/) · [X](https://x.com/mlhkrdsdev)
